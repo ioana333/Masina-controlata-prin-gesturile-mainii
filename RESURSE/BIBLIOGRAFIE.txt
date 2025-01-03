@@ -1,0 +1,25 @@
+
+
+Module WIRELESS
+
+https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/
+
+https://www.instructables.com/NRF24L01-Tutorial-Arduino-Wireless-Communication/
+
+
+
+GIROSCOP
+
+https://www.instructables.com/How-to-Connect-MPU6050-to-Arduino-Nano-Every/
+
+
+
+TURORIAL FINAL
+
+https://www.youtube.com/watch?v=fec-XFwayz8
+
+
+
+COMPONENTE
+
+https://www.instructables.com/Gesture-Control-Car-MPU6050-and-NRF24L01/
