@@ -1,0 +1,35 @@
+
+ARDUINO NANO	x2
+
+https://ardushop.ro/ro/electronica/2388-placa-de-dezvoltare-nano-v3-atmega328p-arduino-compatibil-6427854007292.html
+
+
+NRF24L01
+
+https://ardushop.ro/ro/electronica/1177-modul-wireless-nu-wi-fi-nrf24l01-6427854016690.html
+https://ardushop.ro/ro/electronica/1294-modul-wireless-nrf20l01palna-cu-antena-1100m-6427854018687.html
+
+
+MPU6050
+
+https://ardushop.ro/ro/electronica/50-modul-giroscop-accelerometru-3-axe-mpu-6050-6427854007391.html
+
+
+L298N
+
+https://ardushop.ro/ro/electronica/2343-l298n-punte-h-dubla-dual-h-bridge-motor-dc-stepper-6427854031341.html
+
+
+Motoare DC	x4
+
+https://ardushop.ro/ro/electronica/752-motor-dc-3v-6v-cu-reductor-1-48-6427854009609.html
+
+
+Suport baterii 6xAA + mufa
+
+https://ardushop.ro/ro/electronica/564-suport-baterii-6xaa-mufa-6427854006677.html
+
+
+Baterie 9V mufa
+
+https://ardushop.ro/ro/fire-si-conectori/599-mufa-baterie-9v-forma-t-6427854007230.html
