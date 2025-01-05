@@ -18,7 +18,6 @@ Quaternion q;
 VectorFloat gravity;
 float ypr[3];
 
-// const uint64_t pipeOut = 0xF9E8F0F0E1LL;
 
 RF24 radio(9, 8);
 
