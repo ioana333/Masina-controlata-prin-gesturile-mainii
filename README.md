@@ -4,7 +4,7 @@ Acest proiect detaliază crearea unui prototip de vehicul controlat prin gesturi
 
 ## Scopul Proiectului
 
-Proiectul își propune să îmbunătățească mobilitatea persoanelor cu dizabilități locomotorii prin dezvoltarea unui sistem de control intuitiv bazat pe mișcările naturale ale mâinii.
+Proiectul își propune să implementeze un sistem de control intuitiv bazat pe mișcările naturale ale mâinii.
 
 ## Funcționalități Principale
 
