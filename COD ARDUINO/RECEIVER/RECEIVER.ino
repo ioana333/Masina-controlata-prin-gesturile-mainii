@@ -85,25 +85,35 @@ void controlMotors(byte xAxis, byte yAxis) {
 
 void rotateMotor(int rightMotorSpeed, int leftMotorSpeed) {
   // Controlează motorul din dreapta
-  if (rightMotorSpeed < 0) {
+  if (rightMotorSpeed < 0) 
+  {
     digitalWrite(rightMotorPin1, LOW);
     digitalWrite(rightMotorPin2, HIGH);    
-  } else if (rightMotorSpeed > 0) {
+  } 
+  else if (rightMotorSpeed > 0) 
+  {
     digitalWrite(rightMotorPin1, HIGH);
     digitalWrite(rightMotorPin2, LOW);      
-  } else {
+  } 
+  else 
+  {
     digitalWrite(rightMotorPin1, LOW);
     digitalWrite(rightMotorPin2, LOW);      
   }
   
   // Controlează motorul din stânga
-  if (leftMotorSpeed < 0) {
+  if (leftMotorSpeed < 0)
+   {
     digitalWrite(leftMotorPin1, LOW);
     digitalWrite(leftMotorPin2, HIGH);    
-  } else if (leftMotorSpeed > 0) {
+  } 
+  else if (leftMotorSpeed > 0) 
+  {
     digitalWrite(leftMotorPin1, HIGH);
     digitalWrite(leftMotorPin2, LOW);      
-  } else {
+  } 
+  else 
+  {
     digitalWrite(leftMotorPin1, LOW);
     digitalWrite(leftMotorPin2, LOW);      
   }
